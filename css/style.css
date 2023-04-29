@@ -1,0 +1,60 @@
+/*Esto modifica el Header*/
+.cabecera1 {background-color: rgba(127, 255, 212, 0.445);
+    text-align: center;
+    width: 100%; height: 400px;
+    border: double;
+    
+}
+/*esto modifica la lista del Header*/
+.listaprincipal {
+    list-style: none;
+}
+/*esto modifica el Main*/
+.principal {background-color: rgba(255, 140, 0, 0.486);
+    border: dashed;
+
+}
+/*esto modifica el Aside*/
+.lateral {
+    background-color: rgba(128, 255, 0, 0.267);
+    border: solid;
+}
+/*esto modifica el Body del index*/
+.body {background-image: url("../imagenes/Urbanos1.jpg") ;
+background-size: cover;}
+
+/*Modificaciones de la tabla*/
+table {background-color: rgb(175, 133, 214);
+    
+}
+/*Modificacion del Titulo de Horarios de Atencion*/
+h1 { font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+} 
+
+/*esto modifica el texto de la columna DIAS*/
+.dias { font-size: 25px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    color: chartreuse;
+}
+
+/*esto modifica el texto de la columna Horarios*/
+.horarios { color:rgb(231, 68, 9);
+    text-align: center;
+
+}
+/*esto modifica el footer*/
+.piedepagina {
+    background-color: rgba(76, 0, 130, 0.404);
+    border: dotted;
+    width: 100%;
+}
+/*esto modifica el body de la pagina contacto*/
+.body1 {background-image: url("../imagenes/fformulario.jpg");
+background-size: cover; 
+background-repeat: no-repeat;}
+/*esto modifica formulario de contacto*/
+.formulario1 {
+    border: groove;
+    background-color: rgba(220, 20, 60, 0.329);
+}
